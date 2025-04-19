@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="342" height="513" viewBox="0 0 342 513" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="342" height="513" fill="#CBD5E0"/>
+  <path d="M171 256.5C198.614 256.5 221 234.114 221 206.5C221 178.886 198.614 156.5 171 156.5C143.386 156.5 121 178.886 121 206.5C121 234.114 143.386 256.5 171 256.5Z" fill="#A0AEC0"/>
+  <path d="M171 276.5C121.294 276.5 81 316.794 81 366.5V376.5H261V366.5C261 316.794 220.706 276.5 171 276.5Z" fill="#A0AEC0"/>
+  <path d="M171 116.5L182.797 140.75H209.041L188.122 156.004L199.919 180.254L171 164.999L142.081 180.254L153.878 156.004L132.959 140.75H159.203L171 116.5Z" fill="#A0AEC0"/>
+  <text x="171" y="420" font-family="Arial, sans-serif" font-size="24" text-anchor="middle" fill="#4A5568">이미지 없음</text>
+</svg>

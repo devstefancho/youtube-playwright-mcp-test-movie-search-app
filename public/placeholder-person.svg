@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="185" height="278" viewBox="0 0 185 278" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="185" height="278" fill="#E2E8F0"/>
+  <path d="M92.5 139C106.583 139 118 127.583 118 113.5C118 99.4167 106.583 88 92.5 88C78.4167 88 67 99.4167 67 113.5C67 127.583 78.4167 139 92.5 139Z" fill="#A0AEC0"/>
+  <path d="M92.5 149C65.6619 149 44 170.662 44 197.5V207.5H141V197.5C141 170.662 119.338 149 92.5 149Z" fill="#A0AEC0"/>
+  <text x="92.5" y="235" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#4A5568">인물 이미지 없음</text>
+</svg>
